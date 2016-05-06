@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export JADE_HOME=/Users/dmccoy/dev/java_libraries/jade
+export ECLIPSE_WORKSPACE=/Users/dmccoy/dev/gmu/semantic-web-agents
+export CLASSPATH=$JADE_HOME/lib/jade.jar:$ECLIPSE_WORKSPACE/INFS772/classes
